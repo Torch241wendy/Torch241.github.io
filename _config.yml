@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: 3464520078@qq.com
 description: "如果你已经不能控制 每天想我一次 如果你因为我而诚实."
 keyword: "Torch241 Blog"
-url: "http://toch241.github.io"          # your host, for absolute URL
+url: "http://torch241.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
